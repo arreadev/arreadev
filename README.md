@@ -1,4 +1,4 @@
 Développeur Français débutant <br>
 Il/Lui
 <br>
-FrontEnd
+FrontEnd / OSINT
