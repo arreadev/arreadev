@@ -1,4 +1,6 @@
-Développeur Français débutant <br>
-Il/Lui
+💻·Développeur Français débutant <br>
+😁·Il/Lui | He/Him
 <br>
-FrontEnd / OSINT
+👀·FrontEnd / OSINT
+<br>
+
