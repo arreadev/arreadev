@@ -1,5 +1,4 @@
-# 💫 About Me:
-Juste Simple:
+
 
 
 ## 🌐 Socials:
